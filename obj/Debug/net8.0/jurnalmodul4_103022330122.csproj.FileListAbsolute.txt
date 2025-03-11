@@ -1,0 +1,15 @@
+E:\jurnalmodul4_103022330122\bin\Debug\net8.0\jurnalmodul4_103022330122.exe
+E:\jurnalmodul4_103022330122\bin\Debug\net8.0\jurnalmodul4_103022330122.deps.json
+E:\jurnalmodul4_103022330122\bin\Debug\net8.0\jurnalmodul4_103022330122.runtimeconfig.json
+E:\jurnalmodul4_103022330122\bin\Debug\net8.0\jurnalmodul4_103022330122.dll
+E:\jurnalmodul4_103022330122\bin\Debug\net8.0\jurnalmodul4_103022330122.pdb
+E:\jurnalmodul4_103022330122\obj\Debug\net8.0\jurnalmodul4_103022330122.GeneratedMSBuildEditorConfig.editorconfig
+E:\jurnalmodul4_103022330122\obj\Debug\net8.0\jurnalmodul4_103022330122.AssemblyInfoInputs.cache
+E:\jurnalmodul4_103022330122\obj\Debug\net8.0\jurnalmodul4_103022330122.AssemblyInfo.cs
+E:\jurnalmodul4_103022330122\obj\Debug\net8.0\jurnalmodul4_103022330122.csproj.CoreCompileInputs.cache
+E:\jurnalmodul4_103022330122\obj\Debug\net8.0\jurnalmodul4_103022330122.sourcelink.json
+E:\jurnalmodul4_103022330122\obj\Debug\net8.0\jurnalmodul4_103022330122.dll
+E:\jurnalmodul4_103022330122\obj\Debug\net8.0\refint\jurnalmodul4_103022330122.dll
+E:\jurnalmodul4_103022330122\obj\Debug\net8.0\jurnalmodul4_103022330122.pdb
+E:\jurnalmodul4_103022330122\obj\Debug\net8.0\jurnalmodul4_103022330122.genruntimeconfig.cache
+E:\jurnalmodul4_103022330122\obj\Debug\net8.0\ref\jurnalmodul4_103022330122.dll
